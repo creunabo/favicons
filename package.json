@@ -1,10 +1,10 @@
 {
     "name": "grunt-favicons-tasks",
-    "version": "1.3.5",
-    "description": "Favicon generator for Node.js",
+    "version": "0.0.1",
+    "description": "Favicon generator for Grunt",
     "repository": {
         "type": "git",
-        "url": "https://github.com/haydenbleasel/favicons.git"
+        "url": "https://github.com/creunabo/favicons.git"
     },
     "main": "Gruntfile.js",
     "engines": {
@@ -27,12 +27,12 @@
         "node",
         "gulpfriendly"
     ],
-    "author": "Hayden Bleasel <haydenbleasel@gmail.com>",
-    "license": "ISC",
+    "author": "Bo Petersen <bo.petersen@creuna.dk>",
+    "license": "MIT",
     "bugs": {
-        "url": "https://github.com/haydenbleasel/favicons/issues"
+        "url": "https://github.com/creunabo/favicons/issues"
     },
-    "homepage": "https://github.com/haydenbleasel/favicons",
+    "homepage": "https://github.com/creunabo/favicons",
     "dependencies": {
         "async": "^0.9.0",
         "cheerio": "^0.17.0",
